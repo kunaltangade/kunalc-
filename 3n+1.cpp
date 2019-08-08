@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main ()100
+int main ()
 {
 	 int i,j, c, m;
 	while(cin >> i >> j){
